@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "native-supamenu",
+    "slug": "native-supamenu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
